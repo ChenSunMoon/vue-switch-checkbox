@@ -1,0 +1,16 @@
+{
+  "name": "switch-checkbox",
+  "version": "0.0.0",
+  "description": "A simple switch with on/off associated with ajax and event emitter for parent data update.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "switch",
+    "checkbox",
+    "ajax"
+  ],
+  "author": "André Tzermias",
+  "license": "ISC"
+}
